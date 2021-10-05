@@ -1,0 +1,17 @@
+
+.App {
+  max-width: 800px;
+  margin: auto;
+}
+
+.result-chart {
+  max-height: 700px;
+}
+
+.MuiFormControl-root {
+  padding-top: 30px;
+}
+
+.MuiSlider-markLabel {
+  font-size: 0.75rem;
+}
